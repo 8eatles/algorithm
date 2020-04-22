@@ -1,11 +1,15 @@
 # Lesson 17 Dynamic Programming [MinAbsSum](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum)
 
 ## 1. Environments
+
 ### Java
+
 - jdk 1.8
 
 ## 2. Score
+
 ### Java
+
 - Task Score: 90%
 - Correctness: 83%
 - Performance: 100%
