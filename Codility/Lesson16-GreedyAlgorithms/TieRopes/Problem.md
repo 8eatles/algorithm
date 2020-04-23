@@ -2,6 +2,4 @@
 
 ## Environments
 
-### Java
-
 - jdk 1.8
