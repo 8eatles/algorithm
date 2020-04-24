@@ -1,6 +1,6 @@
 # Lesson 4 Countiong Elements []()
 
-- Difficulty: Painless
+- Difficulty: Respectable
 
 ## Environments
 

@@ -1,6 +1,6 @@
-# Lesson 4 Countiong Elements []()
+# Lesson 4 Countiong Elements [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
 
-- Difficulty: Painless
+- Difficulty: Respectable
 
 ## Environments
 
