@@ -1,4 +1,4 @@
-# Lesson 4 Countiong Elements []()
+# Lesson 4 Countiong Elements [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
 
 - Difficulty: Painless
 
